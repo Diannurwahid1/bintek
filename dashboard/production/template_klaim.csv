@@ -1,0 +1,3 @@
+pasien_id,tgl_klaim,status,nominal,keterangan
+1,2025-09-10,clear,1500000,Klaim BPJS diterima
+2,2025-09-10,pending,0,Menunggu verifikasi
